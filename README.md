@@ -3,21 +3,21 @@
 # Install Requirement.txt
 
 
-# The initila step of this project is that data collection process
+The initial step of this project is that data collection process
 
-# This data Can be downloaded using the Kaggle Website Intel Image Classification
+This data Can be downloaded using the Kaggle Website Intel Image Classification
 
-# this dataset has divided into three folders like train,test,prediction
+This dataset has divided into three folders like train,test,prediction
 
-# train folder has the 14,000 images of six different classes like Building,sea,mountain,street,glacier and forest
+ Train folder has the 14,000 images of six different classes like Building,sea,mountain,street,glacier and forest
 
-# test folder has 3000 images of six different classed like Building,sea,mountain,street,glacier and forest
+Test folder has 3000 images of six different classed like Building,sea,mountain,street,glacier and forest
 
 # prediction folder has more then 7000+ images used to predict the model
 
 # Next Step 2 Data Preprocessing
 
-# using the opencv library we can read the images into array and store into x_train,and the classes was stored into y_train array (Train_Folder)
+Using the opencv library we can read the images into array and store into x_train,and the classes was stored into y_train array (Train_Folder)
 
 # Similary this process happened both test folder as well as Prediction folder
 
